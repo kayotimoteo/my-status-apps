@@ -6,6 +6,8 @@ repo: my-status-apps # Your GitHub repository name
 sites:
   - name: Misura
     url: $MISURA
+  -name: TFT
+    url: $TFTSOLUTIONS
   # - name: Hacker News
   #  url: https://news.ycombinator.com
   # - name: Broken Site
