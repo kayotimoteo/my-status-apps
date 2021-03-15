@@ -22,17 +22,17 @@
     "url": "$TFTSOLUTIONS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tft",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 263,
-    "timeWeek": 321,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 432,
+    "timeDay": 313,
+    "timeWeek": 326,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   }
 ]
