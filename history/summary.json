@@ -1,20 +1,20 @@
 [
   {
-    "name": "Misura",
-    "url": "$MISURA",
+    "name": "ROLEPLAY PANEL",
+    "url": "$RP_PANEL",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "misura",
+    "slug": "roleplay-panel",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 683,
-    "timeWeek": 771,
-    "timeMonth": 614,
-    "timeYear": 479,
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {}
   },
   {
