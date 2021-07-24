@@ -4,8 +4,8 @@ repo: my-status-apps # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Misura
-    url: $MISURA
+  - name: ROLEPLAY PANEL
+    url: $RP_PANEL
   - name: TFT
     url: $TFTSOLUTIONS
   # - name: Hacker News
